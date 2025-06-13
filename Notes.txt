@@ -1,0 +1,10 @@
+Arrays - Collection of Homogeneous Data -> Same Data Type
+Python : list -> Heterogeneous data [1, 1.3, True, False]
+1. One Dimensional
+2. Two Dimensional - Matrix
+3. Multi Dimensional
+4. Jagged Array ***
+The sorting algorithm is a Dual-Pivot Quicksort by Vladimir Yaroslavskiy,
+Jon Bentley, and Joshua Bloch.
+This algorithm offers O(n log(n)) performance on all data sets,
+and is typically faster than traditional (one-pivot) Quicksort implementations.
