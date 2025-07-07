@@ -58,6 +58,5 @@ class DoublyLinkedList{
         dll.addLast("03-01-2021");
         dll.printList();
     }
-
 }
 
